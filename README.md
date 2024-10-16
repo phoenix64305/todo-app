@@ -1,1 +1,1 @@
-Open your Project in browser (http://localhost:5173/)
+Open the Project in browser (http://localhost:5173/)
